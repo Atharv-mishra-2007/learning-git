@@ -1,4 +1,4 @@
 # learning-git
 this is my learning repo
 <br>
-Author : Atharv Mishra
+Author : Atharv (Learning Git) 
